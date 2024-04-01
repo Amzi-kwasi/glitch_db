@@ -1,0 +1,97 @@
+{
+  "products": [
+  ],
+  "vehicle": [],
+  "art_craft": [],
+  "electronic": [],
+  "health_beauty": [],
+  "fashion": [],
+  "babies_kids": [],
+  "agric": [],
+  "property": [],
+  "categories": [
+    {
+      "category": "Vehicles",
+      "value": "vehicle",
+      "link": "/vehicle",
+      "id": "0fbc"
+    },
+    {
+      "category": "Art and Craft",
+      "value": "art_craft",
+      "link": "/art",
+      "id": "ef30"
+    },
+    {
+      "category": "Property",
+      "value": "property",
+      "link": "/property",
+      "id": "b1a6"
+    },
+    {
+      "category": "Electronics",
+      "value": "electronic",
+      "link": "/electronics",
+      "id": "ec22"
+    },
+    {
+      "category": "Home,Furniture & Appliances",
+      "value": "products",
+      "link": "/home_appl",
+      "id": "893a"
+    },
+    {
+      "category": "Health & Beauty",
+      "value": "health_beauty",
+      "link": "/h&b",
+      "id": "52ff"
+    },
+    {
+      "category": "Fashion & Clothes",
+      "value": "fashion",
+      "link": "/fashion",
+      "id": "8a87"
+    },
+    {
+      "category": "Babies and Kids",
+      "value": "babies_kids",
+      "link": "/B&K",
+      "id": "82cf"
+    },
+    {
+      "category": "Agriculture & Food",
+      "value": "agric",
+      "link": "/agric",
+      "id": "ab7c"
+    }
+  ],
+  "orders": [
+   ],
+  "passcode": [
+    {
+      "psk": "al.com",
+      "id": "4162"
+    },
+    {
+      "psk": "0909",
+      "id": "0902"
+    }
+  ],
+  "update": [
+    {
+      "text": "",
+      "color": "",
+      "display": "none",
+      "id": "e711"
+    }
+  ],
+  "account": [
+    {
+      "id": "2af6",
+      "username": "AL",
+      "email": "kwasyamzi@gmail.com",
+      "passkey": "1AK2ak3Y",
+      "notice": ""
+    }
+  ]
+}
